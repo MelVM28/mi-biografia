@@ -6,12 +6,10 @@
 
 ---
 
-## 🎯 Mis Hobbies
-- 🎵 Escuchar música  
-- ✈️ Viajar  
-- 🍽️ Probar nuevas comidas  
-
----
+#Mi biografia
+Escuchar musica
+Viajar 
+Probar nuevas comidas
 
 ## 📬 Contacto
 - **Correo:** melany.contacto@email.com
