@@ -6,7 +6,7 @@
 
 ---
 
-#Mi biografia
+# Mis Hobbies
 Escuchar musica
 Viajar 
 Probar nuevas comidas
