@@ -1,12 +1,17 @@
-#Mi biografia
-Nombre completo: Melany Villarreal
-Edad: 29
-Carrera: Ingeniería de Software
+# 📌 Mi Biografía
 
-#Mi biografia
-Escuchar musica
-Viajar 
-Probar nuevas comidas
+**Nombre completo:** Melany Villarreal  
+**Edad:** 29 años  
+**Carrera:** Ingeniería de Software  
 
-#Contacto
-Correo: melany.contacto@email.com
+---
+
+## 🎯 Mis Hobbies
+- 🎵 Escuchar música  
+- ✈️ Viajar  
+- 🍽️ Probar nuevas comidas  
+
+---
+
+## 📬 Contacto
+- **Correo:** melany.contacto@email.com
